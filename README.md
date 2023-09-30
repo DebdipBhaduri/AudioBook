@@ -19,7 +19,7 @@ The **Interactive PDF Text-to-Speech** is a Python script that allows users to r
 1. Clone the repository or download the script:
 
    ```bash
-   git clone https://github.com/yourusername/pdf-text-to-speech.git
+   git clone https://github.com/DebdipBhaduri/pdf-text-to-speech.git
    ```
 
 2. Navigate to the project directory:
